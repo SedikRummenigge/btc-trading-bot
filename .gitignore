@@ -1,0 +1,13 @@
+# Environnement virtuel — inutile de push ça sur GitHub
+venv/
+
+# Données brutes — trop lourdes pour Git
+data/
+
+# Fichiers systèmes
+.DS_Store
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
